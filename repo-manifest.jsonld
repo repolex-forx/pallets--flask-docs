@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/pallets/flask-docs/commit/ba4713af853166590cd9119e513dd5943380ed58",
       "git:hexsha": "ba4713af853166590cd9119e513dd5943380ed58",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:05:57.621102+00:00"
     }
   ]
 }
